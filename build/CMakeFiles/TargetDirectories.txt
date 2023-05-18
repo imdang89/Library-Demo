@@ -1,0 +1,3 @@
+D:/testc/project_demo/build/CMakeFiles/test.dir
+D:/testc/project_demo/build/CMakeFiles/ALL_BUILD.dir
+D:/testc/project_demo/build/CMakeFiles/ZERO_CHECK.dir
