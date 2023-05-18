@@ -1,3 +1,5 @@
-D:/testc/project_demo/build/CMakeFiles/test.dir
-D:/testc/project_demo/build/CMakeFiles/ALL_BUILD.dir
-D:/testc/project_demo/build/CMakeFiles/ZERO_CHECK.dir
+/home/imdang89/code/Library-Demo/build/CMakeFiles/edit_cache.dir
+/home/imdang89/code/Library-Demo/build/CMakeFiles/package_source.dir
+/home/imdang89/code/Library-Demo/build/CMakeFiles/rebuild_cache.dir
+/home/imdang89/code/Library-Demo/build/CMakeFiles/package.dir
+/home/imdang89/code/Library-Demo/build/CMakeFiles/library.dir

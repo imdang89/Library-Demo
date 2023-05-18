@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/imdang89/code/Library-Demo/build",
+  "command": "/usr/bin/g++   -I/home/imdang89/code/Library-Demo/include  -g   -o CMakeFiles/library.dir/source/EmployeeFT.cpp.o -c /home/imdang89/code/Library-Demo/source/EmployeeFT.cpp",
+  "file": "/home/imdang89/code/Library-Demo/source/EmployeeFT.cpp"
+},
+{
+  "directory": "/home/imdang89/code/Library-Demo/build",
+  "command": "/usr/bin/g++   -I/home/imdang89/code/Library-Demo/include  -g   -o CMakeFiles/library.dir/source/EmployeePT.cpp.o -c /home/imdang89/code/Library-Demo/source/EmployeePT.cpp",
+  "file": "/home/imdang89/code/Library-Demo/source/EmployeePT.cpp"
+},
+{
+  "directory": "/home/imdang89/code/Library-Demo/build",
+  "command": "/usr/bin/g++   -I/home/imdang89/code/Library-Demo/include  -g   -o CMakeFiles/library.dir/source/Person.cpp.o -c /home/imdang89/code/Library-Demo/source/Person.cpp",
+  "file": "/home/imdang89/code/Library-Demo/source/Person.cpp"
+},
+{
+  "directory": "/home/imdang89/code/Library-Demo/build",
+  "command": "/usr/bin/g++   -I/home/imdang89/code/Library-Demo/include  -g   -o CMakeFiles/library.dir/source/main.cpp.o -c /home/imdang89/code/Library-Demo/source/main.cpp",
+  "file": "/home/imdang89/code/Library-Demo/source/main.cpp"
+}
+]
